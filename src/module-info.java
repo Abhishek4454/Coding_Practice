@@ -1,0 +1,2 @@
+module CondingNinja_Java {
+}
